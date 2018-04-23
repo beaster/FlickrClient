@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flickr</string>
+
+    <string name="search_title">Search</string>
+    <string name="preview_title">Image preview</string>
+    <string name="error_no_network">No network connection</string>
+
+</resources>
